@@ -1,0 +1,232 @@
+
+
+h2{
+	font-size:46px;
+	color:#554636;
+}
+
+h4{
+	color:#004673;
+	font-size:28px;
+	margin:0;
+}
+h5{
+	color:#505D6C;
+	font-size:18px;
+}
+p{
+	color:#6B6769;
+}
+
+/*banner start here*/
+.second-banner{
+	background: #257BE5;
+
+}
+
+.banner-text{
+	padding:100px 0;
+}
+.banner-content{
+	margin-top: 20px;
+}
+.banner-content p{
+	margin:20px 0;
+}
+.banner-content h5{
+	margin-top:25px;
+}
+.banner-img img{
+	border:4px solid #000;
+	border-radius:10px;
+
+}
+.banner-btn{
+	padding:10px 20px;
+	margin-right:15px;
+}
+/*banner end here*/
+/*similar start here*/
+.similar{
+	text-align: center;
+	margin:30px 0 70px 0;
+}
+.similar h2{
+color:#004673;
+margin-bottom: 25px;	
+}
+.similar p{
+	font-size:20px;
+	color:#333333b3;
+}
+/*similar end here*/
+/*logo start */
+#logo{
+	background: #F1F3FB;
+	padding:50px 0;
+	text-align:center;
+	padding: 60px 0;
+}
+#logo h3{
+	margin-bottom:50px;
+}
+/*logo end here*/
+
+/*problem area start*/
+#problem{
+	padding:70px 0;
+}
+
+h4{
+	margin-bottom:15px;
+}
+.singel-problem {
+    margin-bottom: 50px;
+}
+.single-content{
+	padding-top: 20px;
+}
+
+/*galley section start here */
+#gallery{
+	padding:80px 0;
+}
+/*galley section end here */
+/*second banner start*/
+.second-banner h2, .second-banner p, .second-banner h5 {
+	color:#ffff;
+}
+/*second banner end*/
+/*footer start*/
+ul li{
+	display:inline-block;
+}
+ul li a{
+	color:#000000;
+	padding-right:20px;
+}
+/*footer end*/
+/*media quiers start here*/
+
+ /*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+/*banner start here*/
+	h2{
+	font-size:22px;
+}
+h4{
+	font-size:18px;
+}
+p{
+	font-size:14px;
+	margin-top:10px;
+ }
+ .banner-text {
+    padding: 20px 0 30px;
+}
+/*banner end here*/
+
+/*logo start here*/
+#logo {
+   padding: 30px 0;
+}
+h3{
+	font-size:18px;
+}
+.margin-top{
+	margin-top:20px;	
+}
+.margin-t-top{
+	margin-top:20px;
+}
+/*logo end here*/
+
+/*single problem start*/
+#problem{
+    padding:  0;
+}
+.single-content {
+    padding-top: 20px;
+}
+.s-single-content{
+	padding:0;
+}
+
+.singel-problem {
+    margin-bottom: 40px;
+}
+/*single problem end*/
+
+
+ }
+
+
+ /*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+
+/*banner start here*/
+	h2{
+	font-size:26px;
+}
+p{
+	font-size:14px;
+	margin-top:15px;
+ }
+ .banner-text {
+    padding: 20px 0 30px;
+}
+/*banner end here*/
+
+/*logo start here*/
+#logo {
+   padding: 30px 0;
+}
+h3{
+	font-size:22px;
+}
+.margin-top{
+	margin-top:20px;	
+}
+/*logo end here*/
+
+/*single problem start*/
+#problem {
+    padding: 30px 0;
+}
+.single-content {
+    padding-top: 25;
+    text-align: center;
+}
+
+h3{
+	font-size:28px;
+}
+.singel-problem {
+    margin-bottom: 40px;
+}
+.image{
+	text-align: center;
+}
+.similar p{
+	font-size:14px;
+}
+/*single problem end*/
+
+
+
+ }
+
+
+ /*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+
+
+.s-image{
+	margin-top:50px;
+}
+
+
+ }
+
+
+ 
